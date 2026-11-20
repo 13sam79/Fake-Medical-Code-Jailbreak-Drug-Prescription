@@ -26,3 +26,15 @@ Mousavi Nassab, S. A. H., & Chinipardaz, M. (2026). Jailbreaking ChatGPT in the 
 
 License
 Please refer to the article and the principles of responsible disclosure for the use of these datasets.
+
+
+
+
+
+
+Authors
+Seyed Amir Hossein Mousavi Nassab — Jundi-Shapur University of Technology, Dezful, Iran
+ORCID: 0009-0008-5971-5082
+
+Maryam Chinipardaz — Jundi-Shapur University of Technology, Dezful, Iran
+ORCID: 0000-0001-9795-7818
